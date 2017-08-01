@@ -32,6 +32,13 @@ $HADOOP_HOME/sbin/mr-jobhistory-daemon.sh --config $HADOOP_CONF_DIR start histor
 $HADOOP_HOME/sbin/start-yarn.sh
 ```
 
+### validate status
+```
+jps # print processes
+
+open http://IP:8088 # yarn client
+```
+
 ## Streaming demo
 ```
 demo/
