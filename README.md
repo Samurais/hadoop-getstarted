@@ -1,11 +1,19 @@
 # Apache Hadoop Get started
 
-## Welcome
+![](https://camo.githubusercontent.com/ae91a5698ad80d3fe8e0eb5a4c6ee7170e088a7d/687474703a2f2f37786b6571692e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f61692f53637265656e25323053686f74253230323031372d30342d30342532306174253230382e32302e3437253230504d2e706e67)
 
-### Standalone setup
+# Welcome
+
+## Standalone setup
 For standalone setup with 2.8.1, check out ```etc```.
+```
+wget https://mirrors.tuna.tsinghua.edu.cn/apache/hadoop/core/hadoop-2.8.1/hadoop-2.8.1.tar.gz
+```
 
-[post](http://blog.chatbot.io/development/2017/07/31/hadoop-get-started/)
+Further reading [post](http://blog.chatbot.io/development/2017/07/31/hadoop-get-started/)
+.
+
+## TL; DR
 
 ```
 ## enable ssh
